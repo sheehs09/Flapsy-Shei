@@ -12,7 +12,7 @@
 
 ## 🎮 Play Now
 
-👉 **[flapsy-shei.netlify.app](https://flapsy-shei.netlify.app)** *(replace with your live URL)*
+👉 **[flapsy-shei.netlify.app](https://flapsy-shei.netlify.app)** 
 
 ---
 
@@ -38,33 +38,6 @@ flapsy-shei/
 ├── sw.js           # Service Worker — offline caching
 ├── manifest.json   # Web App Manifest — installable as an app
 └── README.md       # You are here
-```
-
----
-
-## 🚀 Deploy to Netlify
-
-This project is deployed via **GitHub + Netlify** — both are completely free.
-
-### Step 1 — Push to GitHub
-```bash
-git clone https://github.com/YOUR_USERNAME/flapsy-shei.git
-cd flapsy-shei
-# Add your files, then:
-git add .
-git commit -m "🐦 Initial commit - FLAPSY-SHEI"
-git push origin main
-```
-
-### Step 2 — Connect to Netlify
-1. Go to [netlify.com](https://netlify.com)
-2. Click **"Add new site"** → **"Import an existing project"**
-3. Choose **GitHub** and select the `flapsy-shei` repo
-4. Leave build settings **blank** (no build command needed)
-5. Click **"Deploy site"** 🎉
-
-### Auto-Deploy
-Every `git push` to `main` automatically redeploys your game on Netlify. No manual steps needed!
 
 ---
 
@@ -119,19 +92,6 @@ FLAPSY-SHEI works offline thanks to a **Service Worker** (`sw.js`). Here's how i
 
 ---
 
-## 💰 Cost Breakdown
-
-| Service | Cost |
-|---|---|
-| GitHub (code hosting) | **FREE** |
-| Netlify (web hosting) | **FREE** |
-| `.netlify.app` domain | **FREE** |
-| Custom domain *(optional)* | ~$10–15/year |
-
-**Total to go live: $0** 🎉
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -139,5 +99,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  Made with ❤️ · Built with pure HTML/CSS/JS · No frameworks, no dependencies
+  Shei made with ❤️ · Built with pure HTML/CSS/JS · No frameworks, no dependencies
 </div>
